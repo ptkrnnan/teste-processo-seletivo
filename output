@@ -1,0 +1,16 @@
+/*
+1) Valor da variável soma é 91
+
+2) Valor 5 faz parte da sequencia de fibonacci => true
+
+3) { menorFaturamento: 373.7838, maiorFaturamento: 48924.2448, diasAcimaMedia: 10 }
+
+4) percentual de representação de cada estado:
+   { estado: 'SP', percentual: '37.53' },
+   { estado: 'RJ', percentual: '20.29' },
+   { estado: 'MG', percentual: '16.17' },
+   { estado: 'ES', percentual: '15.03' },
+   { estado: 'Outros', percentual: '10.98' }
+
+5) String 'Olá' torna-se "álO"
+*/
